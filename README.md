@@ -12,7 +12,9 @@ The end-to-end workflow covers data cleaning and EDA in Python, structured busin
 
 ## 2. Architecture Flow
 
-https://github.com/Payal930-ui/Customer-Behaviour-Analysis/blob/main/architecture%20of%20customer%20%20behaviour.png
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/59ac6692-d5f4-41c2-a038-4b05fb1e9ee3" />
+
+
 
 The pipeline flows as follows:
 
